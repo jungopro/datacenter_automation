@@ -1,6 +1,6 @@
 # Datacenter Automation
 
-Scripts to automate operations of an on-premise datacebter
+Scripts to automate operations of an on-premise datacenter
 
 ## Environment description
 
