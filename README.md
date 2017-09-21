@@ -4,7 +4,8 @@ Scripts to automate operations of an on-premise datacebter
 
 ## Environment description
 
-###Please read the environmental description below before using the scripts###
+### ***Please read the environmental description below before using the scripts***
+
 ----------
 
 - The environment is based on HP G9 servers that have the iLO module enabled and functional
